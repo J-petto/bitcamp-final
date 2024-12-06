@@ -1,4 +1,4 @@
-package bitcamp.project;
+package bitcamp.project.config;
 
 import io.github.cdimascio.dotenv.Dotenv;
 import org.springframework.context.annotation.Configuration;
